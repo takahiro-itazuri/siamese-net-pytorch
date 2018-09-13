@@ -6,6 +6,8 @@ Siamese network is a kind of similarity learning and a mapping function from raw
 This implementation refers [delijati/pytorch-siamese](https://github.com/delijati/pytorch-siamese) partially.
 
 ## Prerequisites
+|module|version|
+|:-----|:------|
 |python|3.6|
 |pytorch|0.4.1|
 |torchvision|0.2.1|
