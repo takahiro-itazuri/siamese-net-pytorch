@@ -1,0 +1,7 @@
+/data/*
+/logs/*
+__pycache__
+.vscode
+!/logs/visualization.png
+!/logs/loss.png
+!.gitkeep
